@@ -1,6 +1,6 @@
 # Selenium Load testing
 
-Contains a selenium image to perform web testing with.
+Contains a selenium image for web scraping.
 
 
 # Usage
